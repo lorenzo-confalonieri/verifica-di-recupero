@@ -1,0 +1,11 @@
+#immagine1, #immagine2, #immagine3 {
+    width: 200px;
+    height: auto;
+}
+
+.song {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
